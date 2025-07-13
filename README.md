@@ -37,7 +37,7 @@ _(Coming soon)_
 
 ## Future Plans
 
-- C# chat bot
+- Chat bot implemented with C#
 - Email reminders for upcoming tasks
 - Task categories and priorities
 
