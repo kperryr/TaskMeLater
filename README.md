@@ -32,6 +32,7 @@ _(Coming soon)_
 - MongoDB + Mongoose
 - Passport.js (Google OAuth 2.0)
 - JSON Web Tokens (JWT)
+- Tested with Postman
 
 ---
 
